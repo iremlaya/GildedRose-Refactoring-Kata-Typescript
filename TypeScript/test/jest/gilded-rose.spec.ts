@@ -2,9 +2,9 @@ import { GildedRose } from "@/gilded-rose";
 import { Item } from "../../classes/Item";
 import { AgedBrie } from "../../classes/AgedBrie";
 import { Backstage } from "../../classes/Backstage";
+import { Conjured } from "../../classes/Conjured";
+import { Sulfuras } from "../../classes/Sulfuras";
 import { items } from "../items";
-import { Conjured } from "classes/Conjured";
-import { Sulfuras } from "classes/Sulfuras";
 
 
 describe('Gilded Rose', () => {
